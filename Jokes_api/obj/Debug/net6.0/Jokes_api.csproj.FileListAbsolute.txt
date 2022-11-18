@@ -1,0 +1,15 @@
+C:\Users\arosenius.carlander\null\Jokes_api\Jokes_api\bin\Debug\net6.0\Jokes_api.exe
+C:\Users\arosenius.carlander\null\Jokes_api\Jokes_api\bin\Debug\net6.0\Jokes_api.deps.json
+C:\Users\arosenius.carlander\null\Jokes_api\Jokes_api\bin\Debug\net6.0\Jokes_api.runtimeconfig.json
+C:\Users\arosenius.carlander\null\Jokes_api\Jokes_api\bin\Debug\net6.0\Jokes_api.dll
+C:\Users\arosenius.carlander\null\Jokes_api\Jokes_api\bin\Debug\net6.0\Jokes_api.pdb
+C:\Users\arosenius.carlander\null\Jokes_api\Jokes_api\obj\Debug\net6.0\Jokes_api.csproj.AssemblyReference.cache
+C:\Users\arosenius.carlander\null\Jokes_api\Jokes_api\obj\Debug\net6.0\Jokes_api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arosenius.carlander\null\Jokes_api\Jokes_api\obj\Debug\net6.0\Jokes_api.AssemblyInfoInputs.cache
+C:\Users\arosenius.carlander\null\Jokes_api\Jokes_api\obj\Debug\net6.0\Jokes_api.AssemblyInfo.cs
+C:\Users\arosenius.carlander\null\Jokes_api\Jokes_api\obj\Debug\net6.0\Jokes_api.csproj.CoreCompileInputs.cache
+C:\Users\arosenius.carlander\null\Jokes_api\Jokes_api\obj\Debug\net6.0\Jokes_api.dll
+C:\Users\arosenius.carlander\null\Jokes_api\Jokes_api\obj\Debug\net6.0\refint\Jokes_api.dll
+C:\Users\arosenius.carlander\null\Jokes_api\Jokes_api\obj\Debug\net6.0\Jokes_api.pdb
+C:\Users\arosenius.carlander\null\Jokes_api\Jokes_api\obj\Debug\net6.0\Jokes_api.genruntimeconfig.cache
+C:\Users\arosenius.carlander\null\Jokes_api\Jokes_api\obj\Debug\net6.0\ref\Jokes_api.dll

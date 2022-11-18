@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "m4WTD9waSSQe/GGmiibGYvO+7Ia2O/Iaqg2pjw3jzKRdGoFQj6U63K5Cb+M93nIQvX83r9SeTaCL041W1imTkQ==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\arosenius.carlander\\null\\Jokes_api\\Jokes_api\\Jokes_api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arosenius.carlander\\.nuget\\packages\\restsharp\\108.0.2\\restsharp.108.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
